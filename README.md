@@ -1,1 +1,1 @@
-# Competitve-programming
+# leetcode-solutions
