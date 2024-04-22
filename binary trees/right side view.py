@@ -43,4 +43,3 @@ root.right.left.right = Node(8)
 
 rightView(root)
 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007)
